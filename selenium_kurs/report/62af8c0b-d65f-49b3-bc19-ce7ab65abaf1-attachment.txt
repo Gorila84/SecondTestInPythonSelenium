@@ -1,0 +1,14 @@
+[32mINFO    [0m page_object_patern.pages.search_hotel:search_hotel.py:23 Setting city Dubai
+[32mINFO    [0m page_object_patern.pages.search_hotel:search_hotel.py:32 Setting check in 22/10/2020 and 29/10/2020 dates
+[32mINFO    [0m page_object_patern.pages.search_hotel:search_hotel.py:40 Setting travellers 2 adults  and 2 kids
+[32mINFO    [0m page_object_patern.pages.search_hotel:search_hotel.py:49 performing_test
+[32mINFO    [0m page_object_patern.pages.search_results:search_results.py:18 Avalible hotels are:
+[32mINFO    [0m page_object_patern.pages.search_results:search_results.py:21 Jumeirah Beach Hotel
+[32mINFO    [0m page_object_patern.pages.search_results:search_results.py:21 Oasis Beach Tower
+[32mINFO    [0m page_object_patern.pages.search_results:search_results.py:21 Rose Rayhaan Rotana
+[32mINFO    [0m page_object_patern.pages.search_results:search_results.py:21 Hyatt Regency Perth
+[32mINFO    [0m page_object_patern.pages.search_results:search_results.py:28 Avalible prices are:
+[32mINFO    [0m page_object_patern.pages.search_results:search_results.py:30 $22
+[32mINFO    [0m page_object_patern.pages.search_results:search_results.py:30 $50
+[32mINFO    [0m page_object_patern.pages.search_results:search_results.py:30 $80
+[32mINFO    [0m page_object_patern.pages.search_results:search_results.py:30 $150
